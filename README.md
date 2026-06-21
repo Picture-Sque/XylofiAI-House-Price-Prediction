@@ -1,6 +1,6 @@
 # House Price Prediction using Machine Learning
 
-## Xylofi AI – Week 1 Internship Project
+## XYlofy AI – Week 1 Internship Project
 
 ### Project Overview
 
@@ -135,7 +135,7 @@ The project includes:
 ## Repository Structure
 
 ```text
-XylofiAI-House-Price-Prediction/
+HousePricePrediction_KrishnadasPS/
 │
 ├── Housing.csv
 ├── analysis.ipynb
@@ -159,4 +159,4 @@ krishnadasps.mec@gmail.com
 
 AI & Data Science Intern
 
-Xylofi AI
+XYlofy AI
